@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhenyao Wen"
   avatar           : "profile.jpg"
-  bio              : "Zhengyao Wen is a Postgraduate who researchs in Machine Learning."
-  location         : "Fuzhou, Fujian, China"
+  bio              : "Postgraduate who researchs in Machine Learning."
+  location         : "Fuzhou, China"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "853818291@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
